@@ -1,4 +1,4 @@
-# CloudFlare IP Ranges
+# Psiphon IP Ranges
 ## آخرین رنج‌های آی‌پی کلودفلر
 
 __گردآوری از طریق:__\
